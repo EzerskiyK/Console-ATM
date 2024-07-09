@@ -22,3 +22,36 @@ The user must enter a valid card number matching the template and the correct PI
 **Application start**
 
 To run this application you can run the .bat file, which is located at the path: ConsoleATM/out/artifacts/ConsoleATM_jar/run_app.bat 
+
+**Initial values**
+
+- card number: 1111-1111-1111-1111
+- pin code: 1111
+
+**Examples of how the application works**
+
+- _Identification and authentication process_
+
+![Identification and authentication process](https://github.com/EzerskiyK/Console-ATM/blob/main/imageFileForGitHub/1.png)
+
+- _Menu_
+
+  ![Menu](https://github.com/EzerskiyK/Console-ATM/blob/main/imageFileForGitHub/2.png)
+
+  - _Check balance_
+
+  ![check balance](https://github.com/EzerskiyK/Console-ATM/blob/main/imageFileForGitHub/3.png)
+
+  - _Withdarawl_
+
+  ![withdarawl](https://github.com/EzerskiyK/Console-ATM/blob/main/imageFileForGitHub/4.png)
+
+  ![withdarawl](https://github.com/EzerskiyK/Console-ATM/blob/main/imageFileForGitHub/5.png)
+
+  - _Top Up_
+
+  ![withdarawl](https://github.com/EzerskiyK/Console-ATM/blob/main/imageFileForGitHub/6.png)
+  
+  ![withdarawl](https://github.com/EzerskiyK/Console-ATM/blob/main/imageFileForGitHub/7.png)
+
+  
