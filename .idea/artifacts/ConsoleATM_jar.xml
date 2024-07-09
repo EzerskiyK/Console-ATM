@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConsoleATM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConsoleATM_jar</output-path>
+    <root id="archive" name="ConsoleATM.jar">
+      <element id="module-output" name="ConsoleATM" />
+    </root>
+  </artifact>
+</component>
